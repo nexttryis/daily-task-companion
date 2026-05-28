@@ -1,0 +1,10 @@
+Screen {
+    background: #1a1a2e;
+    color: #e0e0ff;
+}
+
+#motivation {
+    content-align: center middle;
+    height: 3;
+    background: #16213e;
+}
